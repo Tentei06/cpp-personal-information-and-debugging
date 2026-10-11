@@ -1,0 +1,27 @@
+# Compiled C++ files
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.dll
+
+# Build directories
+Debug/
+Release/
+build/
+bin/
+out/
+
+# Eclipse IDE configuration
+.project
+.cproject
+.settings/
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
