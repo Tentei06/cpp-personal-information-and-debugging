@@ -44,12 +44,12 @@ int main()
 	string city = "Zaryndor";
 	int zipCode = 80521;
 
-			// Display the person's information to the console
-			cout << "First Name: " << firstName << endl;
-			cout << "Last Name: " << lastName << endl;
-			cout << "Street Address: " << streetAddress << endl;
-			cout << "City: " << city << endl;
-			cout << "Zip Code: " << zipCode << endl;
+		// Display the person's information to the console
+		cout << "First Name: " << firstName << endl;
+		cout << "Last Name: " << lastName << endl;
+		cout << "Street Address: " << streetAddress << endl;
+		cout << "City: " << city << endl;
+		cout << "Zip Code: " << zipCode << endl;
 
 	// End the program successfully
 	return 0;
